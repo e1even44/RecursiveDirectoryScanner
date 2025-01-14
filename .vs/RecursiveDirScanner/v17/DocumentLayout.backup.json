@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hilal\\source\\repos\\RecursiveDirScanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E901CB-B6DC-427D-8714-3DD18739FA93}|RecursiveDirScanner\\RecursiveDirScanner.csproj|c:\\users\\hilal\\source\\repos\\recursivedirscanner\\recursivedirscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E901CB-B6DC-427D-8714-3DD18739FA93}|RecursiveDirScanner\\RecursiveDirScanner.csproj|solutionrelative:recursivedirscanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E901CB-B6DC-427D-8714-3DD18739FA93}|RecursiveDirScanner\\RecursiveDirScanner.csproj|c:\\users\\hilal\\source\\repos\\recursivedirscanner\\recursivedirscanner\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E901CB-B6DC-427D-8714-3DD18739FA93}|RecursiveDirScanner\\RecursiveDirScanner.csproj|solutionrelative:recursivedirscanner\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E901CB-B6DC-427D-8714-3DD18739FA93}|RecursiveDirScanner\\RecursiveDirScanner.csproj|c:\\users\\hilal\\source\\repos\\recursivedirscanner\\recursivedirscanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0E901CB-B6DC-427D-8714-3DD18739FA93}|RecursiveDirScanner\\RecursiveDirScanner.csproj|solutionrelative:recursivedirscanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hilal\\source\\repos\\RecursiveDirScanner\\RecursiveDirScanner\\appsettings.json",
+              "RelativeDocumentMoniker": "RecursiveDirScanner\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hilal\\source\\repos\\RecursiveDirScanner\\RecursiveDirScanner\\appsettings.json",
+              "RelativeToolTip": "RecursiveDirScanner\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T07:43:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hilal\\source\\repos\\RecursiveDirScanner\\RecursiveDirScanner\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "RecursiveDirScanner\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Hilal\\source\\repos\\RecursiveDirScanner\\RecursiveDirScanner\\DatabaseManager.cs",
+              "RelativeToolTip": "RecursiveDirScanner\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:32:33.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hilal\\source\\repos\\RecursiveDirScanner\\RecursiveDirScanner\\Program.cs",
+              "RelativeDocumentMoniker": "RecursiveDirScanner\\Program.cs",
+              "ToolTip": "C:\\Users\\Hilal\\source\\repos\\RecursiveDirScanner\\RecursiveDirScanner\\Program.cs",
+              "RelativeToolTip": "RecursiveDirScanner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:41:53.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
